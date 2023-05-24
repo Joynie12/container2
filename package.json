@@ -1,0 +1,35 @@
+{
+  "name": "containers2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joynie12/container2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joynie12/container2/issues"
+  },
+  "homepage": "https://github.com/Joynie12/container2#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^29.5.0",
+    "babel-loader": "^9.1.2",
+    "core-js": "^3.30.2",
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  }
+}
